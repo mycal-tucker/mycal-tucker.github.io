@@ -1,5 +1,1 @@
 exclude: [vendor]
-
-jekyll_auth:
-  whitelist:
-    - "^((?!private).)*$*
