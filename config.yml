@@ -1,4 +1,0 @@
-jekyll_auth:
-  whitelist:
-    - "^((?!private).)*$*
-
