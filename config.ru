@@ -3,3 +3,7 @@
 
 require "jekyll-auth"
 run JekyllAuth.site
+#added by mycal:
+jekyll_auth:
+  whitelist:
+    - "^((?!private).)*$*
