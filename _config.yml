@@ -4,4 +4,4 @@ exclude: [vendor]
 #added by mycal:
 jekyll_auth:
   whitelist:
-    - "^((?!private).)*$*
+    - "^((?!private).)*$"
